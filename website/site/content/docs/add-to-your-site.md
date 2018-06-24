@@ -20,7 +20,7 @@ All Netlify CMS files are contained in a static `admin` folder, stored at the ro
 | -------------------- | --------------------- |
 | Jekyll, GitBook      | `/` (project root)    |
 | Hugo, Gatsby, Nuxt   | `/static`             |
-| Hexo, Middleman      | `/source`             |
+| Hexo, Middleman, Jigsaw      | `/source`             |
 | Spike                | `/views`              |
 | Wyam                 | `/input`              |
 
